@@ -1,0 +1,14 @@
+{
+  "name": "alexa-bitten-by-a-snake-skill",
+  "version": "1.0.0",
+  "engines": {
+    "node": "8.10.0"
+  },
+  "private": true,
+  "author": "Vikram Venkataramanan <vikram.venkataramanan@mail.utoronto.ca>",
+  "keywords": ["node", "alexa", "lambda"],
+  "dependencies": {
+    "ask-sdk-core": "^2.5.1",
+    "ask-sdk-model": "^1.15.0"
+  }
+}
